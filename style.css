@@ -148,3 +148,25 @@ header h1 {
         margin: 10px 0;
     }
 }
+
+footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    padding: 20px 0;
+}
+
+footer a {
+    color: var(--verde-primeiro);
+    text-decoration: none;
+    font-weight: 800;
+}
+
+footer a:hover {
+    transition: all 0.4s;
+    color: var(--verde-segundo);
+}
