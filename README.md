@@ -1,6 +1,6 @@
 # Guessing Game JS (demonstration)
 
-[Teste aqui](https://iglisson.github.io/todo-list/)
+[Teste aqui](https://iglisson.github.io/guessing-game-js/)
 
 ## Icons 
 - :up: Update
